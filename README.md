@@ -1,16 +1,16 @@
-## Hi there 👋
+# kuwafu
 
-<!--
-**kuwafu/kuwafu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+オンプレミス仮想化基盤（Proxmox VE）を主軸に、閉域ネットワーク、ローカル推論基盤、データ同期・自律自動化システムの設計・運用を行っています。  
+日常のワークフローやシステム構築において、生成AI・ローカルLLM・エージェント技術を徹底的に実用・乱用するスタイルです。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Focus & Interests
+
+* **Infrastructure & Virtualization:** Proxmox VE (KVM / LXC), Linux, Storage Integration
+* **Networking & Security:** Mesh VPN (Tailscale), DNS-01 ACME, Zero-Trust / Private Network
+* **Local Inference & Automation:** llama.cpp, faster-whisper, Model Context Protocol (MCP), systemd
+
+---
+
+主要な成果物や運用システムは、下の **Pinned Repositories** を参照してください。
